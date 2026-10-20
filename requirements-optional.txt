@@ -1,0 +1,4 @@
+# optional: speech-to-text (Whisper), OCR of on-screen text, audio analysis
+faster-whisper>=1.0
+rapidocr-onnxruntime>=1.3
+librosa>=0.10
