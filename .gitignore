@@ -1,0 +1,6 @@
+# runtime data created after install never lives in the repo
+claude/analyze-then-pick/runs/
+claude/analyze-then-pick/caught_flags.html
+vendor/capcut-mcp/node_modules/
+__pycache__/
+*.pyc
